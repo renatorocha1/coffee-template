@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="272" height="63" viewBox="0 0 272 63">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 63px;
+        font-family: Rasa-SemiBold, Rasa;
+        font-weight: 600;
+      }
+    </style>
+  </defs>
+  <text id="BrasCoffee" class="cls-1" transform="translate(0 46)">
+    <tspan x="0" y="0">BrasCoffee</tspan>
+  </text>
+</svg>

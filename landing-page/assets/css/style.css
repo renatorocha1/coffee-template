@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Rasa:wght@400;600;700&display=swap");
+
+body {
+  background-color: #f0d2ba;
+  font-family: "Rasa", Times, serif;
+}
+
+nav > ul > li {
+  display: inline;
+}
+
+main {
+  min-height: 500px;
+}
